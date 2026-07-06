@@ -5,8 +5,8 @@ streamlit
 pandas
 pillow
 matplotlib
-opencv-python
-# opencv-python-headless
+# opencv-python
+opencv-python-headless
 gdown 
 joblib
 scikit-learn 
