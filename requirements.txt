@@ -1,0 +1,13 @@
+tensorflow==2.18.0 
+keras==3.12.2
+pyserial
+streamlit
+pandas
+pillow
+matplotlib
+opencv-python
+# opencv-python-headless
+gdown 
+joblib
+scikit-learn 
+xgboost
